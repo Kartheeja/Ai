@@ -6,3 +6,4 @@ lab 5 https://github.com/Kartheeja/Ai/blob/main/Assignment_5.ipynb
 lab 6 https://github.com/Kartheeja/Ai/blob/main/Lab06-AIML%20(2).ipynb
 lab 7 https://github.com/Kartheeja/Ai/blob/main/Lab07-SVM%20(1).ipynb
 lab 8 https://github.com/Kartheeja/Ai/blob/main/AIML_Assignment_08.ipynb
+lab 9 https://github.com/Kartheeja/Ai/blob/main/Lab%2009.ipynb
